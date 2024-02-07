@@ -1,0 +1,24 @@
+-OFFICIAL DOCUMENTATION
+https://learn.microsoft.com/en-us/dotnet/csharp/
+
+-API
+https://learn.microsoft.com/en-us/dotnet/api/
+https://learn.microsoft.com/en-us/dotnet/api/?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?view=netframework-4.8.1
+https://learn.microsoft.com/en-us/dotnet/api/?view=dotnet-plat-ext-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?view=netstandard-2.1
+
+-CLI APP
+FUNDAMENTALS AND BASIC
+FILE HANDLING
+DIRECTORY HANDLING
+INPUT AND OUTPUT HANDLING
+USER INPUT AND OUTPUT
+NETWORK/TCP/SOCKET
+
+-GUI APP
+FUNDAMENTALS AND BASIC GUI
+
+-REFERENCE
+
+-PACKAGES
