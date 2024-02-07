@@ -1,0 +1,106 @@
+Variables
+Variable Initialize
+Array
+Array Initialize
+Functtion
+OOP
+Constructor
+JSON(encode,decode,serialized,deserialize,stringify,jsonify)
+API
+REGEX
+NEtworking socket tcp/ip
+authentication
+authorization
+
+--Gui and DoS Application
+Array/Collection/Types of Array/Array of Object/List of Object
+OOP(inheritance,polymorphism,encapsulation,classes,object,abstraction,constructor,interface,abstract,Interface)
+Function/Method
+Conditional Statement(If,If...else,Switch)
+Loop Statement(For Loop,While Loop,Do While Loop)
+Variables
+JSON(encode,decode,serialized,deserialize,stringify,jsonify) -> JSON DATA TO STRING(VICE VERSA)
+Regex
+MySql Database(Create,Read,Update,Delete)
+Networking & socket & tcp/ip
+Access Protocol(SSH,FTP,etc)
+Printing/Printer
+Http Request & Response / Http Client
+Design Pattern
+Repository Pattern
+Fluent Interface
+Services/Dependency Injection
+Model View Controller
+threading/multi threading
+Async/Sync/Await
+File Handling/Reading/Writing/Copy/Move
+Create Components
+View/Generate Documents(PDF,DOX,etc)
+Report Viewer
+Execute Command
+Get Path of the File
+Configuration Files
+Key Events/Mouse Events/Handlers/Event Handlers
+Chart/Pie Chart etc
+Return Statement(String/Integer/Object etc)
+API Integration using Http Request
+Open Dialog(Print Dialog/File Dialog/etc)
+Serial Communication
+Fundamentals And Basic 
+Networking/TCP IP/Socket
+Http Response/Http REquest/Http Client
+Api/Modules Library
+Directory Handling/File Handling/IO Handling
+Database(Mysql)
+Generate/Create PDF From Components
+Generate/Create Documents(PDF, etc...)
+Generate/Create Report View
+Print Document/Report View
+Opencv/Emgucv Wrapper
+Thread/MultiThread
+Dependency Injection/Services
+Serial Port communication
+System Diagnostic/ProcessBuilder/Runtime
+System Configuration/Properties
+Native Hook/Hook/Hotkey Hook
+File Save Dialog/File Open Dialog/Print Dialog
+Convert Data Types to Another Data Types
+Get Bytes of Any Data Types
+Encoding and Decoding(ASCII,HEX,DECIMAL,UTF,etc...)
+Buffer and Bytes
+cmd/powershell
+Database to DocumentS(PDF,EXCEL,etc...)
+Import and export database
+
+--Web
+Session
+Cookie
+Token
+Authorization
+Authentication
+Validation
+Custom and Access Header Request/Response
+Access Request/Response
+Access Request Body
+Send Http Request
+Model View Controller Routing/Routes
+Get Parameter/Query/Route Values from URL
+File Upload/File Handling
+Services/Dependency Injection
+Serial Communication
+Rendering/Server Side Rendering/Client Side Rendering/Server Components
+DOM
+Generate Document(PDF,DOCX,etc)
+Print Document(PDF,DOCX,etc)
+API/Rest API
+Fundamentals and Basic of Web Technology
+JWT token
+Http Request/Http Response
+Headers
+Request Body/Form Data/x-www-form-urlencoded
+Accessing Request/Response
+Accessing Headers
+Customize Headers
+API/MODULE Library
+MiddleWare
+Regex
