@@ -1,0 +1,34 @@
+-OFFICIAL DOCUMENTATION
+https://docs.oracle.com/en/java/javase/21/docs/api/index.html
+
+-API
+
+-CLI APP
+FILE HANDLING
+DIRECTORY HANDLING
+INPUT AND OUTPUT HANDLING
+USER INPUT AND OUTPUT
+NETWORK/TCP/SOCKET
+
+-GUI APP
+
+-REFERENCE
+https://www.baeldung.com/java-opencv -> OPENCV/EMGUCV
+https://howtodoinjava.com/java/library/read-generate-pdf-java-itext/ ->ITEXT
+
+-PACKAGES
+jSerialComm
+pdfbox
+itextpdf
+mysql-connector-java
+javax mail
+java-json
+json-simple
+commons-beanutils
+commons-collections
+commons-digester
+jasperreports
+jasperreports-fonts
+jasperreports-javaflow
+org-apache-commons-logging
+flatlaf

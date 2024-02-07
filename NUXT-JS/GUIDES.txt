@@ -1,0 +1,11 @@
+-OFFICIAL DOCUMENTATION
+https://nuxt.com/docs/getting-started/installation
+
+-API
+https://nuxt.com/docs/api
+
+-WEB APP
+
+-REFERENCE
+
+-PACKAGES
