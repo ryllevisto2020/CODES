@@ -1,0 +1,12 @@
+-OFFICIAL DOCUMENTATION
+https://laravel.com/docs/10.x/
+
+-API
+https://laravel.com/api/10.x/
+
+-WEB APP
+
+-REFERENCE
+
+-PACKAGES
+firebase/php-jwt

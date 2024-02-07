@@ -1,0 +1,11 @@
+-OFFICIAL DOCUMENTATION
+https://www.php.net/manual/en/
+https://phpseclib.com/docs/ 
+
+-API
+
+-WEB APP
+
+-REFERENCE
+
+-PACKAGES

@@ -1,0 +1,14 @@
+-OFFICIAL DOCUMENTATION
+https://react.dev/learn
+
+-API
+https://react.dev/reference/react
+
+-WEB APP
+
+-REFERENCE
+
+-PACKAGES
+mysql
+cors
+body-parser
